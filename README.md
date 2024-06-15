@@ -1,18 +1,35 @@
-Hey There !!!!!!!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Manoj Menon
+==========================================================================================================================================
 
-- 👋 Hi, I’m @AdityaManojMenon
-- 👀 I’m passionate about programming, playing chess and soccer.
-- 🌱 I’m currently doing Bacherlor of Science degree in Computer Science at Michigan State University
-- 💞️ I’m looking to collaborate and work on some interesting projects.
-- 📫 How to reach me Mobile: 5172493720 or Email:adhumenon2004@gmail.com
-  
-   ![images](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/d9b1b1c4-2460-4d8c-aa5a-91a6b7ab49b0)
-![download (1)](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/989016db-193f-4e92-9dcc-91d87fe0d9d5) ![download (2)](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/cfa01155-4efb-4c85-abb8-ba162cddc6c8)     ![download](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/11b50209-f410-4e67-b162-309657e0fba6)  ![download](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/f8143df2-b813-414a-ae94-e42fb0b50a9b)  ![download (1)](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/5a7fe385-383c-4a53-a06e-0c47569d21e2)  ![download (2)](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/e6ed4a2e-247b-4297-9384-fb9b32556799) ![download](https://github.com/AdityaManojMenon/AdityaManojMenon/assets/143031124/edba114c-2559-4fe6-822c-e0a72753afcd)
+CS@MSU | AI Enthusiast
+----------------------
+
+I have a strong passion for AI and data science and I'm happy to collaborate on developing intelligent systems and data-driven applications.
+
+* 🌍  I'm based in Michigan, USA
+* ✉️  You can contact me at [menonad1@msu.edu](mailto:menonad1@msu.edu)
+
+### Skills
 
 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/AdityaManojMenon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adityamanojmenon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AdityaManojMenon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaManojMenon&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/AdityaManojMenon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AdityaManojMenon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/AdityaManojMenon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojMenon&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
