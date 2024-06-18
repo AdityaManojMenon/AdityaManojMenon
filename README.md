@@ -9,7 +9,7 @@ I have a strong passion for AI and data science and I'm happy to collaborate on 
 * 🌍  I'm based in Michigan, USA
 * ✉️  You can contact me at [menonad1@msu.edu](mailto:menonad1@msu.edu)
 
-### Skills
+### Languages and Framework
 
 C, C++, Python, MySQL, Power BI, Pandas, NumPy, LangChain, OpenAI, VS Code, Git
 
