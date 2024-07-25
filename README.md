@@ -14,6 +14,7 @@ I have a strong passion for AI and data science and I'm happy to collaborate on 
 Languages: Python, C, C++, SQL				               
 Developer Tools: Git/GitHub, Jupyter Notebook, Power BI, OpenAI API          
 Libraries: Pandas, NumPy
+Framework
 Framework: Scikit-Learn, Large Language Models (LLMs)  
 
 
