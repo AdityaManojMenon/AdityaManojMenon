@@ -11,7 +11,11 @@ I have a strong passion for AI and data science and I'm happy to collaborate on 
 
 ### Languages and Framework
 
-C, C++, Python, MySQL, Power BI, Pandas, NumPy, LangChain, OpenAI, VS Code, Git
+Languages: Python, C, C++, SQL				               
+Developer Tools: Git/GitHub, Jupyter Notebook, Power BI, OpenAI API 
+Framework: Scikit-Learn, Large Language Models (LLMs)           
+Libraries: Pandas, NumPy
+
 
 
 ### Socials
