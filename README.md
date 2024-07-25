@@ -10,10 +10,11 @@ I have a strong passion for AI and data science and I'm happy to collaborate on 
 * ✉️  You can contact me at [menonad1@msu.edu](mailto:menonad1@msu.edu)
 
 ### Languages and Framework
-Languages: Python, C, C++, SQL				               
+Languages: Python, C, C++, SQL	
+Framework: Scikit-Learn, Large Language Models (LLMs) 
 Developer Tools: Git/GitHub, Jupyter Notebook, Power BI, OpenAI API          
 Libraries: Pandas, NumPy
-Framework: Scikit-Learn, Large Language Models (LLMs)  
+ 
 
 
 
