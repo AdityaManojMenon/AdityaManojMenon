@@ -3,8 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 CS@MSU | AI Enthusiast
 ----------------------
-
-I have a strong passion for AI and data science and I'm happy to collaborate on developing intelligent systems and data-driven applications.
+### :woman_technologist: About Me :
+- :telescope:I have a strong passion for AI and data science and I'm happy to collaborate on developing intelligent systems and data-driven applications.
+- :zap: In my free time, I solve problems on LeetCode and I play Chess.
 
 * 🌍  I'm based in Michigan, USA
 * ✉️  You can contact me at [menonad1@msu.edu](mailto:menonad1@msu.edu)
