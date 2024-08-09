@@ -9,7 +9,7 @@ I have a strong passion for AI and data science and I'm happy to collaborate on 
 * 🌍  I'm based in Michigan, USA
 * ✉️  You can contact me at [menonad1@msu.edu](mailto:menonad1@msu.edu)
 
-### Languages and Framework
+### :hammer_and_wrench: Languages and Tools :
 Languages: Python, C, C++, SQL	
 Developer Tools: Git/GitHub, Jupyter Notebook, Power BI, OpenAI API          
 Libraries: Pandas, NumPy
