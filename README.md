@@ -1,48 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Manoj Menon
-==========================================================================================================================================
+# Aditya Manoj Menon
 
-CS@MSU | AI Enthusiast
-----------------------
-### :woman_technologist: About Me :
-- :telescope:I have a strong passion for AI and data science and I'm happy to collaborate on developing intelligent systems and data-driven applications.
-- :zap: In my free time, I solve problems on LeetCode and I play Chess.
+**Computer Science @ Michigan State University**  
+Data Engineering • Machine Learning • Financial Analytics
 
-* 🌍  I'm based in Michigan, USA
-* ✉️  You can contact me at [menonad1@msu.edu](mailto:menonad1@msu.edu)
+---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+## About Me
 
+I am a Computer Science student at Michigan State University with a primary focus on **data engineering and analytics engineering**, and strong exposure to **machine learning and financial analytics**. I am interested in building reliable, scalable data systems that support downstream analytics, modeling, and decision-making.
 
-### Socials
+My work emphasizes **production-grade data pipelines**, reproducibility, and system robustness rather than exploratory analysis. I enjoy operating at the intersection of infrastructure, analytics, and applied ML.
 
-<p align="left"> <a href="https://www.github.com/AdityaManojMenon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adityamanojmenon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- **Location:** Michigan, USA  
+- **Email:** menonad1@msu.edu  
+- **GitHub:** https://github.com/AdityaManojMenon  
+- **LinkedIn:** https://www.linkedin.com/in/adityamanojmenon/
+- **Personal Website:** https://www.adityamanoj.com/
 
+---
 
-### :fire: My Stats :
+## Core Interests
 
-<a href="http://www.github.com/AdityaManojMenon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaManojMenon&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Data Engineering & Analytics Engineering  
+- Distributed Data Pipelines (Batch & Streaming)  
+- ML-Enabled Data Systems  
+- Financial & Investment Analytics  
+- Data Modeling, Quality, and Governance
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojMenon&layout=compact&theme=vision-friendly-dark)
+---
 
-<!---
-AdityaManojMenon/AdityaManojMenon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical Skills
 
+**Languages**
+- Python, SQL, C++
+
+**Data Engineering**
+- Spark, Kafka, dbt, Airflow
+
+**Data Warehousing & Storage**
+- BigQuery, Snowflake, Delta Lake  
+- PostgreSQL, MongoDB
+
+**Analytics & ML**
+- Pandas, NumPy  
+- Feature pipelines and model evaluation support
+
+**Cloud & Tooling**
+- Databricks, Docker, Git, Azure, GCP
